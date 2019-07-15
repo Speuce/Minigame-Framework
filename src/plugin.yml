@@ -1,0 +1,27 @@
+name: MiniGame
+version: 1.0
+description: hi
+main: com.speuce.miniGames.main.MiniGameMain
+api-version: 1.14
+commands:
+  w:
+    description: World General command.
+    usage: Command Aint workin.
+  map:
+    description: Map General command.
+    usage: Eh you didnt use it righttt
+  list:
+    description: thing.
+    usage: U broke it.
+  set:
+    usage: baaaddd.
+  mod:
+    usage: /<command>
+  reward:
+    usage: /<command>
+  stats:
+    usage: /<command>
+  exp:
+    usage: /<command>
+  fstart:
+    usage: /ftstart <seconds>
